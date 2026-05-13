@@ -1,8 +1,8 @@
 {
   "name": "VideoKurátor",
-  "short_name": "VideoK",
-  "description": "Személyes videókurátor gyűjtemény – YouTube, Instagram, TikTok, Facebook",
-  "start_url": "/index.html",
+  "short_name": "Videok",
+  "description": "Videó gyűjtemény – YouTube, Instagram, TikTok, Facebook",
+  "start_url": "/Videok",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
